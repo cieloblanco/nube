@@ -11,9 +11,9 @@ void word_count(string datatxt, ll tam_bloque,
                 int i, vector<um> &palabras_de_procesos, ll ram);
 
 
-int main() 
+int main(int argc, char **argv) 
 {
-    string datatxt="a.txt";
+    string datatxt=argv[1];//"hola.txt";
     //generaTXT(datatxt);
     
     ifstream f;
