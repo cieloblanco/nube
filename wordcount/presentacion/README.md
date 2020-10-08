@@ -10,7 +10,7 @@ partes=1. Indica el número de partes en las que se divide el bloque. Se divide 
 **Ejemplos:**
 
 *hola.txt*
-![alt text](https://raw.githubusercontent.com/cieloblanco/nube/main/wordcount/presentacion/imagenes/holatxt.png | width=480)
+![alt text](https://raw.githubusercontent.com/cieloblanco/nube/main/wordcount/presentacion/imagenes/holatxt.png)
 ![alt text](https://raw.githubusercontent.com/cieloblanco/nube/main/wordcount/presentacion/imagenes/holar.png)
 
 *peru.txt*
