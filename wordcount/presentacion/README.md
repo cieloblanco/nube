@@ -8,6 +8,7 @@ Ejemplos:
 
 ![alt text](https://raw.githubusercontent.com/cieloblanco/nube/main/wordcount/presentacion/imagenes/holatxt.png)
 ![alt text](https://raw.githubusercontent.com/cieloblanco/nube/main/wordcount/presentacion/imagenes/holar.png)
+
 ![alt text](https://raw.githubusercontent.com/cieloblanco/nube/main/wordcount/presentacion/imagenes/perutxt.png)
 ![alt text](https://raw.githubusercontent.com/cieloblanco/nube/main/wordcount/presentacion/imagenes/perur.png)
 
