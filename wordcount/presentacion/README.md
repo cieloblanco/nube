@@ -1,4 +1,4 @@
-Ejecución en threads.
+Ejecución en threads.  
 Uso de RAM de cada thread según parámetros en el main.
 Generación de archivo de 9.8 GB a partir de "el_quijote.txt".
 
